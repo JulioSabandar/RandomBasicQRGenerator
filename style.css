@@ -1,0 +1,23 @@
+body{
+  font-family: sans-serif;
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+  text-align: center;
+  position: relative;
+  margin: auto;
+  width: 10%;
+  padding: 40px;
+  border-radius: 25px 25px;
+}
+
+
+table {
+  margin: 0 auto;
+}
+
+.button:hover{
+  transform: scale(1.1);
+}
